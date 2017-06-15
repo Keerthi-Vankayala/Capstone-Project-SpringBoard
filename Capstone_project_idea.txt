@@ -1,0 +1,47 @@
+Cervical Cancer:
+
+What is the probability that a woman can get affected with cervical cancer?
+or
+Which cancer treatment will be most effective?
+
+Data:
+
+http://archive.ics.uci.edu/ml/datasets/Cervical+cancer+%28Risk+Factors%29
+
+https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/kernels
+
+
+
+
+Appliances energy prediction Data Set :
+
+What is the rate at which appliances energy is helping/ being a cause of globalwarming?
+
+Data:
+
+http://archive.ics.uci.edu/ml/datasets/Appliances+energy+prediction
+
+
+
+
+Crimes - 2001 to present Chicago:
+
+What would be rate of crime incidents would be reported in next two years? -- increased/decreased ?
+
+Data:
+
+https://catalog.data.gov/dataset/crimes-2001-to-present-398a4
+
+
+
+
+Consumer Complaint Database :
+
+Which financial product is at risk to broke with increase in the consumer complaints in next 5 years?
+
+Data:
+
+https://catalog.data.gov/dataset/consumer-complaint-database
+
+
+
